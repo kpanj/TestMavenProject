@@ -10,9 +10,10 @@
 
   <test thread-count="5" name="Test">
     <classes>
-       <class name="api.tests.DDTests"/> 
-		<class name="api.tests.UserTests2"/>
-         <class name="api.tests.UserTests"/>
+        <class name="api.tests.DDTests"/> 
+		 <class name="api.tests.UserTests2"/> 
+          <class name="api.tests.UserTests"/> 
+		<class name="api.tests.StoreTests"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- PetSuite -->
